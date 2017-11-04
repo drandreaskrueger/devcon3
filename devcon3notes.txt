@@ -1,0 +1,329 @@
+
+DevCon3 LiveStream
+
+My notes of e.g. URLs, and hours/minutes/seconds positions in the livestream archives.
+
+I have watched almost ALL of the talks in the DevCon livestream (Main Hall), only the first evening not yet - after a long day in the office ... in the middle of it I just slept in. Will watch them later.
+
+This is a completely idiosyncratic subset of talks. Roughly chronological. There were many more, which I did not write down anything about. Find them yourself:
+ 
+* https://ethereumfoundation.org/devcon3/agenda/
+* https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
+
+Purposes of this document:
+* other people can already start watching now, even before the talks are edited and published
+* myself I will more easily find stuff later.
+* keep the mentioned links somewhere. 
+
+Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. Thanks.
+
+Really looking forward to the last day tomorrow. Join us in chat https://gitter.im/ethereum-unofficial/devcon if you read this in time.
+
+What a pity I cannot party with you in Cancun now. Greetings from London.
+
+Good night, 
+              eth (at) AndreasKrueger (dot) de
+
+
+------------------
+
+
+Great tool: Puppeth
+DevCon talk - very worthwhile. Péter Szilágyi.
+Tool: Fantastic. Spin up your own ether-like blockchain in 20 minutes. 
+geth based.
+https://github.com/ethereum/go-ethereum/tree/master/cmd/puppeth
+Incl:
+* ethstats
+* miner
+* parity because blockexplorer
+* webwallet
+* faucet
+* dashboard 
+* with manuals for enduser how to connect
+
+everything here he has deployed in front of our eyes, just now:
+http://devcon.network/
+
+you can watch that talk already: 
+https://www.youtube.com/watch?v=8sXzxkODH-c&t=3m
+
+----------------------------------------------
+
+Some interesting talks of today.
+
+
+1:00 pm - 1:40 pm Swarm Development Update
+I had made notes, the first one being: "Part 4 of the SWARM talk. Encryption, Merkle tree "subdirectories" - might be inspiring our own solutions ... (ACL) Access Control List for distributed systems..."
+
+Now stupidly, Youtube seems to cut at 04:00:00 hours? So exactly that part is missing. No replacement for being in Cancun.
+The remainder of the swarm talk is beginning here:  https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h0m01s
+
+
+----------------------------------------------
+
+2:00 pm - 2:20 pm The Future of Token Contracts - Jordi Baylina
+
+MiniMe & ERC223 = YogaToken
+EIP672 reverse ENS, EIP165
+Governance, LiquidPledging
+https://ethereumfoundation.org/devcon3/sessions/token-contract-explorations-minime-reconstructing-balances-erc223-and-more/
+giveth.io
+
+talk begins here https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h37m17s popular guy, seemingly
+Summary https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h54m30s
+
+
+-----------------------------------------------------
+
+2:20 pm - 2:40 pm Designing Future-proof Smart Contract Systems - Jorge Izquierdo (Aragon ICO) 
+solidity - concepts & tricks for upgradeable contracts
+wiki.aragon.one
+aragon.chat
+
+begins here: https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h55m20s
+
+----------------------------------
+
+etherscan.io 
+
+2:40 pm - 3:00 pm Exploring the Ethereum Blockchain Matt Tan & Wee Chuan Tan
+
+This talk is about my experience building and using a block explorer for the Ethereum blockchain, which will provide a statistics highlight of the Ethereum blockchain and demographics of the Ethereum user base. The demographics portion will based on analytical data generated over the past years from Etherscan.io, which will assist new/existing developers on building a better user experience by first understanding who their potential target audiences are.
+
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h11m17s
+
+1st part: interesting numbers
+2nd part: geth vs parity
+3rd part: google analytics of us users "user persona"
+
+----------------------------------
+
+3:30 pm - 3:55 pm Panel: USCC – The Underhanded Solidity Coding Contest
+Nick Johnson & Martin Swende & João Gabriel Carvalho & Richard Moore
+
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=2h05m55s
+
+tricky solidity/EVM vulnerabilities
+
+all 4 could be hired as smart contract code auditors ?
+
+-----------------------------------------------------------
+
+4:40 pm - 5:00 pm The Raiden Network - Augusto Hack & Jannik Luhn & Loredana Cirstea
+
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h20m30s
+
+how to build applications on top
+API calls, WebUI; Ropsten
+microRaiden on Kovan
+use cases: demo.micro.raiden.network & robocar
+
+brainbot.com
+
+--------------------------------------------------------
+
+other memorable presentations of today (had made no notes, just going through the agenda https://ethereumfoundation.org/devcon3/agenda/ now):
+
+9:00 am - 9:20 am Developers, Developers, Developers – Ethereum for all your networks! Péter Szilágyi
+https://www.youtube.com/watch?v=8sXzxkODH-c&t=0h3m0s
+
+10:25 am - 10:45 am The EVM: Cleaner, Meaner, and Closer to the Metal - Dr. Greg Colvin
+https://www.youtube.com/watch?v=8sXzxkODH-c&t=1h20m22s
+https://www.youtube.com/watch?v=8sXzxkODH-c&t=1h23m02s
+
+5:00 pm - 5:20 pm Towards a Permanent ENS Registrar - Nick Johnson
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=4h4m50s
+SUMMARY OF TALK: https://medium.com/@enslisting.com/ens-talk-at-devcon-3-the-unoffical-summary-66afdb2247d1
+
+and of yesterday, Day 1:
+
+(everything until 1pm seems lost, cut away by youtube? Stupid. So video only for after-noon talks.)
+
+9:55 am - 10:20 am  Ethereum in 25 Minutes, Version MMXVII   Vitalik Buterin
+https://ethereumfoundation.org/devcon3/sessions/ethereum-in-25-minutes/
+
+
+1:55 pm - 2:15 pm  Package Management for Smart Contracts - Piper Merriam
+He is the Python Web3.py guy
+Far reaching concepts for a package management system.
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=0h20m40s
+
+--------------------------------------------------
+
+EDIT: 
+'enslisting.com' wrote a summary of the ENS talk, see above.
+
+Plus:
+'Argongroup.com' tried a summary of day 1:
+https://medium.com/@argongroup/8-things-we-learned-devcon3-day-1-858681157db1
+
+
+--------
+Day 3
+--------
+
+INCOMPLETE! Just some talks I liked...
+
+----------------------------------------------------------------
+
+9:00 am - 9:20 am Intro to Solidity (2017 edition) Hudson Jameson
+good intro for very beginners
+solgraph !
+slides https://hudsonjameson.com/speakingengagements/
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h00m030s
+
+--------------------------------------------------------
+
+9:20 am - 9:40 am  Flexibility in Solidity Dr. Christian Reitwiessner
+SMTchecker!
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h17m30s
+
+---------------------------------------------------------
+
+9:40 am - 10:10 am Mist: towards a decentralized, secure architecture - Everton Fraga & Victor Maia
+Mist Browser!
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h36m17s
+
+??:?? Where is the decentralized Web 
+http://moon-browser.org/  !!!  IPSF !
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h56m42s
+
+-------------------------------------------------
+
+10:30 am - 10:50 am DappHubb - Andy Milenius
+nixos.org
+seth !!
+Dappsys
+DSAuth !!
+DSToken
+https://dapp.tools/
+https://dapphub.com/
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=01h31m05s
+
+-----------------------------------------------
+
+10:10 am - 10:30 am Dapp Development using Remix, Mist, and Geth - Yann Levreau & Rob Stupay
+remix solidity IDE  !
+- now with themes :-)
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=01h11m21s
+
+---------------------------------------------------------------------
+
+11:10 am - 11:30 am MetaMask: Dissecting the fox - Aaron Davis & Frankie Pangilinan
+kyokan.io
+state of the dapps metamask support
+metamascara !
+Mustekala: ethereum & IPFS
+hello (at) metamask (dot) io
+https://www.youtube.com/watch?v=k42YNyvG8CU&t=02h12m42s
+
+-----------------------------------------
+
+mentioned somewhere:
+https://beakerbrowser.com/
+https://github.com/ssbc/patchwork
+https://www.scuttlebutt.nz/
+
+---------------------------------------------------------
+
+
+1:00 pm - 1:20 pm Web3.js 1.0 - Fabian Vogelsteller
+http://frozeman.de/blog   @frozeman
+version v1.0 many news
+Promises !
+web3.eth.subscribe !
+myContract.methods.doSomething() --> send, on('change'), etc.
+web3.eth.accounts
+web3.utils
+web3.utils.soliditySha3
+...
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h00m00s
+stupidly cut off by youtube
+
+-----------------------------------------------
+
+1:20 pm - 1:40 pm Missing Links in the Ethereum Stack - Jack Peterson
+Augur
+bounties for tools wishlist https://augur.net/bounties/
+e.g. 2000 REP for portable debugger
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h03m07s
+
+--------------------------------------
+
+1:40 pm - 2:00 pm EthJS – Precision Ethereum Javascript Architecture for dApps - Nick Dodson
+https://github.com/ethjs/ethjs-schema
+complete Ethereum RPC specification as a JSON object !! inputs, outputs ...
+Why EthJS?
+frustration about / criticism of web3.js
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h26m15s
+
+-------------------------------------------------------
+
+2:00 pm - 2:40 pm - Panel: Development Frameworks
+very interesting discussion
+Iuri Matias
+Andy Milenius
+Conor Svensson
+Yann Levreau
+Nick Dodson
+Jack Peterson
+Piper Merriam
+who else?
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h45m27s
+
+---------------------------------
+
+2:40 pm - 3:00 pm
+Uport – Usable Key Management for Multiple Identities Across Multiple Chains
+Michael Sena & Rouven Heck & Pelle Braendgaard
+onboarding, userfriendly
+identity management ACROSS chains
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=01h21m27s
+
+---------------------------------
+
+MUSIC
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=01h41m30s until
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h12m03s
+
+-----------------------------------------------
+
+3:30 pm - 3:50 pm
+Data is the Missing Link - Tim Nugent & Sam Chadwick
+Thomson Reuters
+https://developers.thomsonreuters.com/blockchain-apis/blockone-iq-ethereum
+https://blockoneiq.thomsonreuters.com/
+private chains only !
+SPX, Libor, S&P500
+https://blockoneid.thomsonreuters.com/ address mapping, user id, ...
+permID.org identifiers for entities e.g. industry symbols that get recycled
+data coverage, e.g. electricity & gas prices
+if we need other data sets, we can ask then they'll provide
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h12m03s
+
+-----------------------------------------------------------
+
+2 talks oracle <-> trusted hardware: TownCrier, Oraclize
+
+3:50 pm - 4:10 pm Secure Decentralized Oracles: Applying Intel SGX and TownCrier to external data, payments and off-chain computation - Sergey Nazarov
+https://link.smartcontract.com/whitepaper
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h31m28s
+
+4:10 pm - 4:30 pm Scalable Onchain Verification for Authenticated Data Feeds and Offchain Computations - Thomas Bertani
+
+-------------------------------------------------------------------------
+
+
+4:50 pm - 5:20 pm Mind the Gap: Application-driven evaluation of Smart Contract languages - Andrew Miller
+professor at UIUC
+ETH vs BTC: time & money complexity comparisons
+Lottery mechanism. time lock: Claim-or-refund. Tournament scheme.
+Payment channels. BTC: Timeout must be incremented per participant. ETH global registry.
+Poker: ...
+Even raiden has not used Ethereum perfectly yet?
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=03h30m45s
+
+----------------------------------------------------------
+
+
