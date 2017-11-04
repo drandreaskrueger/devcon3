@@ -148,6 +148,8 @@ https://ethereumfoundation.org/devcon3/sessions/ethereum-in-25-minutes/
 He is the Python Web3.py guy
 Far reaching concepts for a package management system.
 https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=0h20m40s
+s**t they swapped out the file now?   Will all hour:minutes:seconds break now?  Grrrr
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s
 
 --------------------------------------------------
 
