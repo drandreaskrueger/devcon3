@@ -1,3 +1,6 @@
+
+quickstart: [devcon3notes.txt](devcon3notes.txt)
+
 # DevCon3 LiveStream
 watching 4 whole days of live stream, some memorable talks: notes e.g. URLs &amp; youtube positions (hours/minutes/seconds in the livestream archives)
 
