@@ -13,7 +13,7 @@ This is a completely idiosyncratic subset of talks. Roughly chronological. There
 Purposes of this document:
 * other people can already start watching now, even before the talks are edited and published
 * myself I will more easily find stuff later.
-* keep the mentioned links somewhere. 
+* to keep the mentioned links somewhere. 
 
 Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. Thanks.
 
@@ -22,20 +22,25 @@ Really looking forward to the last day tomorrow. Join us in chat https://gitter.
 What a pity I cannot party with you in Cancun now. Greetings from London.
 
 Good night, 
-AndreasKrueger
+Andreas Krueger
 
 ------------------
 
 ### TODO
+
 Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3 Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. You find examples for that in it already. Thanks.
 
-They seem to now have f**ked with their youtube videos, *grrr*; sabotageurs. It might be that ALL of the &t=3h20m30s are wrong now.  Checked these so far:
+They seem to now have f**ked with their youtube videos, *grrr*; sabotageurs. It might be that ALL of the time positions like &t=3h20m30s are wrong now.  Checked these so far:
 
-* Day2 afternoon: add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
+* Day2 afternoon: have to add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
 
+If you do look up the correct times, please fork this repo and send a pull request. Thanks a lot.
 
------------------- 
+################################################
 
+-----
+Day 2
+-----
 
 Great tool: Puppeth
 DevCon talk - very worthwhile. Péter Szilágyi.
@@ -145,6 +150,8 @@ https://www.youtube.com/watch?v=8sXzxkODH-c&t=1h23m02s
 https://www.youtube.com/watch?v=aMs0wAFIu7I&t=4h4m50s
 SUMMARY OF TALK: https://medium.com/@enslisting.com/ens-talk-at-devcon-3-the-unoffical-summary-66afdb2247d1
 
+
+
 and of yesterday, Day 1:
 
 (everything until 1pm seems lost, cut away by youtube? Stupid. So video only for after-noon talks.)
@@ -174,7 +181,7 @@ https://medium.com/@argongroup/8-things-we-learned-devcon3-day-1-858681157db1
 Day 3
 --------
 
-INCOMPLETE! Just some talks I liked...
+INCOMPLETE! Just some talks that I liked...
 
 ----------------------------------------------------------------
 
@@ -334,6 +341,168 @@ Payment channels. BTC: Timeout must be incremented per participant. ETH global r
 Poker: ...
 Even raiden has not used Ethereum perfectly yet?
 https://www.youtube.com/watch?v=FPHXbJPVVaA&t=03h30m45s
+
+
+##########################################################
+
+people wrote summaries, please add more
+
+Day 1
+https://medium.com/@grigano1/devcon3-day-1-in-review-ac0d16f6af7f
+https://davidburela.wordpress.com/2017/11/02/devcon-3-report-day-1-core-systems/
+https://medium.com/@argongroup/8-things-we-learned-devcon3-day-1-858681157db1
+
+
+Day2
+https://davidburela.wordpress.com/2017/11/03/devcon-3-report-day-2-core-systems/
+https://medium.com/@grigano1/devcon3-day-2-in-review-eth-all-star-presentations-colvin-not-drinking-kool-aid-raiden-ens-d57b15e2eced
+https://www.ethnews.com/devcon3-day-2-morning-brief-a-big-day-for-wallets
+https://www.ethnews.com/devcon3-day-2-afternoon-recap
+
+Day3
+https://www.ethnews.com/devcon3-day-3-recap
+
+
+Twitter
+https://twitter.com/search?f=tweets&q=%23Devcon3
+https://twitter.com/search?f=tweets&q=%23Devcon
+
+#############################################################
+
+------
+Day 4 
+------
+
+9:00 am - 9:25 am Whisper: Achieving Darkness - Vlad Gluhovsky
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=00h00m20s
+
+privacy !
+everyone tries decrypting everything
+padding with randoms for short messages
+hide message in padding !
+gitter.im/ethereum/whisper 
+gitter handles: Vlad @gluk256 and Guillaume @gballet
+
+--------------------------------------------
+
+9:25 am - 9:45 am
+Using Whisper and IPFS to improve customer experience in a P2P marketplace - Michael Thuy & Stefaan Ponnet
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=00h24m07s
+
+"gas station" for ERC20 tokens
+github.com/swarmcity
+github.com/ipfsconsortium
+github.com/swarmcity/gasstation-service github.com/swarmcity/sc-gasstationclient github.com/swarmcity/gasstation-demo
+
+---------------------------------------------
+
+9:45 am - 10:00 am The Data Mechanics of Saving the Planet - Gregory Landua & Risto Karjalainen
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=00h44m04s
+"completely reversing climate change"
+incentivize carbon sequestration
+www.regen.network
+
+--------------------------------------------------
+
+10:00 am - 10:15 am Decentralised Autonomous Organization: Interal Platform for Climate Initiatives - Anton Galenovich, Ph.D. & Sergei Lonshakov
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=01h00m14s
+
+shift climate agreements onto blockchain
+carbon markets, environmental mitigation assets and liabilities
+http://dapp.ipci.io
+http://ipci.io
+info (at) ipci (dot) io
+http://aira.life
+
+-----------------------------------------------------
+
+10:35 am - 10:50 am Blockchain for Humanitarian Assistance - Houman Haddad
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=01h23m14s
+
+world food programme
+UN agency, using private blockchain for cash transfers
+200,000 transactions, saved 98% on fees
+www.wfp.org
+houman (dot) haddad (at) wfp (dot) org
+video slightly spooky at &t=01h38m38s- ID via iris scan - with centralized database?
+
+-----------------------------------------------
+
+
+10:55 am - 11:10 am IDbox – Cost efficient device for self-sovereign identity - Julien Bouteloup
+https://www.youtube.com/watch?v=vXVcuWvR5Z0&t=01h44m25s
+London Hackathon early 2017
+now version v2 is ready
+open source 3D printer printed
+multimodal biometric identification - but no central storage
+papua new guinea - 90% no ID
+selling electricity via the IDbox
+ERC 725 / 735 = ERC:Identity
+Identity AIM (like ATM)
+Julien (at) Bouteloup (dot) com
+@bneiluj
+http://www.idbox.io/
+
+--------------------------------------------------
+
+1:20 pm - 1:40 pm Kleros: Building a decentralized court system to arbitrate smart contracts - Clément Lesaege
+https://www.youtube.com/watch?v=ugbRyZSPfYE&t=20h20m00s
+
+arbitrators, and how to select them
+info (at) kleros (dot) io
+https://github.com/kleros
+
+--------------------------
+
+1:40 pm - 2:00 pm Building a decentralized sharing economy on top of Ethereum - Christoph Jentzsch
+https://www.youtube.com/watch?v=ugbRyZSPfYE&t=00h40m00s
+
+Artik 7 device
+light client
+bike, microwave, washing machine rental
+appartment rental
+https://mvp.slock.it
+
+--------------------------
+
+2:40 pm - 3:00 pm Dai Stablecoin - Andy Milenius
+https://www.youtube.com/watch?v=ugbRyZSPfYE&t=01h37m30s
+
+MakerDAO
+dapp.tools
+purple paper haskell reference implementation
+https://makerdao.com
+
+--------------------------
+
+
+3:30 pm - 3:50 pm Designing IoT Frameworks Using Ethereum - Shuang Liang & John Gerryts
+https://www.youtube.com/watch?v=ugbRyZSPfYE&t=02h30m09s
+
+Toyota Research Institute
+short video with good summary at ... &t=02h45m30s
+trusted-iot.org
+Blockchain-Mobility.org
+info (at) OakenInnovations (dot) com
+OakenInnovations.com
+
+--------------------------
+
+3:50 pm - 4:10 pm
+The Energy Blockchain in 20 Minutes - Garrett MacDonald
+https://www.youtube.com/watch?v=ugbRyZSPfYE&t=02h50m40s
+
+https://netstats.energyweb.org
+https://github.com/energywebfoundation/energyweb-client
+garret (dot) macdonald (at) energyweb (dot) org = @nontipo = @bitcoingarret
+brendan (dot) auroranetwork (dot) com = @auroranetwork
+
+pretty balancing visualisation at ... &t=02h57m20s
+open source
+genesis planned for early 2019
+PoA, 3.5 seconds block time, 2500 transactions/second 
+
+
 
 ----------------------------------------------------------
 ----------------------------------------------------------
