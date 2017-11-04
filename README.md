@@ -16,14 +16,19 @@ Purposes of this document:
 * myself I can more easily find stuff later.
 * keeping the mentioned links somewhere. There is so much happening.
 
-Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. You find examples for that in it already. Thanks.
-
 Really looking forward to the last day tomorrow. Join us in the temporary chat https://gitter.im/ethereum-unofficial/devcon if you read this in time. 
 
 What a pity I cannot party with you in Cancun now. Greetings from London.
 
 Good night, 
 Andreas Krueger
+
+### TODO
+Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. You find examples for that in it already. Thanks.
+
+They seem to now have f**ked with their youtube videos, *grrr*; sabotageurs. It might be that ALL of the &t=3h20m30s are wrong now.  Checked these so far:
+
+* Day2 afternoon: add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
 
 
 # HERE are the notes:
