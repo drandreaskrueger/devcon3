@@ -325,5 +325,13 @@ Even raiden has not used Ethereum perfectly yet?
 https://www.youtube.com/watch?v=FPHXbJPVVaA&t=03h30m45s
 
 ----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+home of this file: https://github.com/drandreaskrueger/devcon3/
+
+contributors: 
+* https://github.com/drandreaskrueger
+* [add your name here]
 
 
