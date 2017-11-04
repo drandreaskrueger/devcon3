@@ -23,7 +23,13 @@ Good night,
               AndreasKrueger (dot) de
 
 
-# Notes:
+# HERE are the notes:
 
 * [devcon3notes.txt](devcon3notes.txt)
 
+---
+
+---
+
+# cute animals picture
+![pretty-image](https://cdn-images-1.medium.com/max/800/1*NQxoq_KeE7LShIicIfLWHw.jpeg)
