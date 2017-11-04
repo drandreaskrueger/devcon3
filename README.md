@@ -34,5 +34,9 @@ Good night,
 
 ---
 
-# cute animals picture
-![pretty-image](https://cdn-images-1.medium.com/max/800/1*NQxoq_KeE7LShIicIfLWHw.jpeg)
+---
+
+---
+
+
+![pretty-image](https://raw.githubusercontent.com/drandreaskrueger/devcon3/master/devcon-watching-the-live-stream.jpg)
