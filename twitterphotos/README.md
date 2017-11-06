@@ -1,6 +1,6 @@
 version v1.1 - newer version might be at https://github.com/drandreaskrueger/devcon3/ --> /twitterphotos/  
 
-quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz)
+quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)
 
 # twitter: #devcon and #devcon3 photos  
 
@@ -17,7 +17,7 @@ Steps:
 9. README, compress, upload, link to it - tweet it?  
 
 
-HERE is the result --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz)
+HERE is the result --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)
 
 enjoy,  
 AndreasKrueger  
