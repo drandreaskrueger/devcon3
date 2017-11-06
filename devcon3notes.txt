@@ -1,42 +1,57 @@
+[devcon3notes.txt](devcon3notes.txt)  status: All 4 days watched.   
 
-DevCon3 LiveStream
+# DevCon3 LiveStream
 
-My notes of e.g. URLs, and hours/minutes/seconds positions in the livestream archives.
+Notes of memorable talks. e.g. mentioned URLs and addresses &amp; start youtube positions (hours/minutes/seconds in the livestream archives) <-- this is the main usefulness.
 
-I have watched almost ALL of the talks in the DevCon livestream (Main Hall), only the first evening not yet - after a long day in the office ... in the middle of it I just slept in. Will watch them later.
+I have watched almost ALL of the talks in the DevCon livestream (Main Hall). Yes, 35 hours of [binge-watching :-) ](https://twitter.com/j32804/status/926900616592490497) .
 
-This is a completely idiosyncratic subset of talks. Roughly chronological. There were many more, which I did not write down anything about. Find them yourself:
+These notes contain an idiosyncratic *subset* of talks. Roughly chronological. There were many more. Find them yourself (and if your favorites are missing, just add'em):
  
 * https://ethereumfoundation.org/devcon3/agenda/
 * https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
 
-Purposes of this document:
-* other people can already start watching now, even before the talks are edited and published
-* myself I will more easily find stuff later.
-* to keep the mentioned links somewhere. 
+Purposes of this text document:
+* other people can already start watching now, even before the talks are edited and published. Thus the youtube URLs with exact HOUR:MINUTES:SECONDS links.  
+* myself I will more easily find stuff later. 
+* placeholders to perhaps insert more info about each talk  
+* keeping the mentioned links somewhere. There is so much happening.  
+  
 
-Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. Thanks.
+There might be some more info in the chat https://gitter.im/ethereum-unofficial/devcon .
 
-Really looking forward to the last day tomorrow. Join us in chat https://gitter.im/ethereum-unofficial/devcon if you read this in time.
-
-What a pity I cannot party with you in Cancun now. Greetings from London.
+What a pity my body was not in Cancun, but you can be sure - my mind was. Greetings from London.
 
 Good night, 
 Andreas Krueger
 
-------------------
+
 
 ### TODO
+* Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3  
+* Just one wish: Please do not write email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
+* making this strictly chronological  
+* perhaps invent some scheme that all this can still be parsed afterwards?  
 
-Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3 Just one wish: If you add & edit, please do not write their email addresses in cleartext, to hide them from spambots. You find examples for that in it already. Thanks.
 
-They seem to now have f**ked with their youtube videos, *grrr*; sabotageurs. It might be that ALL of the time positions like &t=3h20m30s are wrong now.  Checked these so far:
+#### News day 4: *a few* times might be wrong now
 
+Arrrghh. They seem to now have f**ked with their youtube videos, *grrr* sabotageurs. Some time positions like &t=3h20m30s are wrong now - checked only a few: 
+
+* seems to still be correct: most of Day 2 Morning, Day 3 morning, Day 4 ?
 * Day2 afternoon: have to add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
+* Day3 afternoon:  add 17.5 minutes so &t=02h12m03s becomes https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s
+
+I am not going to correct those times below just yet - because I don't know when they stop f**king with the videos.
 
 If you do look up the correct times, please fork this repo and send a pull request. Thanks a lot.
 
-################################################
+
+
+
+########################
+(day 1 is further down)
+########################
 
 -----
 Day 2
@@ -68,11 +83,10 @@ Some interesting talks of today.
 
 
 1:00 pm - 1:40 pm Swarm Development Update
-I had made notes, the first one being: "Part 4 of the SWARM talk. Encryption, Merkle tree "subdirectories" - might be inspiring our own solutions ... (ACL) Access Control List for distributed systems..."
-
-Now stupidly, Youtube seems to cut at 04:00:00 hours? So exactly that part is missing. No replacement for being in Cancun.
-The remainder of the swarm talk is beginning here:  https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h0m01s
-
+My notes: 
+Part 4 of the SWARM talk. Encryption, Merkle tree "subdirectories" 
+might be inspiring our own solutions ... (ACL) Access Control List for distributed systems...
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h0m01s
 
 ----------------------------------------------
 
@@ -84,9 +98,10 @@ Governance, LiquidPledging
 https://ethereumfoundation.org/devcon3/sessions/token-contract-explorations-minime-reconstructing-balances-erc223-and-more/
 giveth.io
 
-talk begins here https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h37m17s popular guy, seemingly
-Summary https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h54m30s
+talk begins here https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h00m47s popular guy, seemingly
+Summary https://www.youtube.com/watch?v=aMs0wAFIu7I&t=01h17m10s
 
+possibly have to add 23 minutes to all positions?
 
 -----------------------------------------------------
 
@@ -154,17 +169,17 @@ SUMMARY OF TALK: https://medium.com/@enslisting.com/ens-talk-at-devcon-3-the-uno
 
 and of yesterday, Day 1:
 
-(everything until 1pm seems lost, cut away by youtube? Stupid. So video only for after-noon talks.)
-
-9:55 am - 10:20 am  Ethereum in 25 Minutes, Version MMXVII   Vitalik Buterin
-https://ethereumfoundation.org/devcon3/sessions/ethereum-in-25-minutes/
+9:55 am - 10:20 am Ethereum in 25 Minutes, Version MMXVII - Vitalik Buterin
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=49m35s until 
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=1h13m55s 
+= less than 25 minutes
 
 
 1:55 pm - 2:15 pm  Package Management for Smart Contracts - Piper Merriam
 He is the Python Web3.py guy
 Far reaching concepts for a package management system.
-https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=0h20m40s
-s**t they swapped out the file now?   Will all hour:minutes:seconds break now?  Grrrr
+was v=Yo9o5nDTAAQ&t=0h20m40s
+s**t, they swapped out the file now?   Will all hour:minutes:seconds break now?  Grrrr
 https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s
 
 --------------------------------------------------
@@ -318,7 +333,13 @@ https://blockoneid.thomsonreuters.com/ address mapping, user id, ...
 permID.org identifiers for entities e.g. industry symbols that get recycled
 data coverage, e.g. electricity & gas prices
 if we need other data sets, we can ask then they'll provide
-https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h12m03s
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h12m03s 
+
+---------------------------------------
+
+THEY F**KED THAT UP their videos!!! 
+&t=02h12m03s becomes now: 
+https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s == add 17.5 minutes
 
 -----------------------------------------------------------
 
@@ -340,7 +361,7 @@ Lottery mechanism. time lock: Claim-or-refund. Tournament scheme.
 Payment channels. BTC: Timeout must be incremented per participant. ETH global registry.
 Poker: ...
 Even raiden has not used Ethereum perfectly yet?
-https://www.youtube.com/watch?v=FPHXbJPVVaA&t=03h30m45s
+&t=03h30m45s WRONG, NOW: https://www.youtube.com/watch?v=FPHXbJPVVaA&t=03h49m00s
 
 
 ##########################################################
@@ -351,6 +372,7 @@ Day 1
 https://medium.com/@grigano1/devcon3-day-1-in-review-ac0d16f6af7f
 https://davidburela.wordpress.com/2017/11/02/devcon-3-report-day-1-core-systems/
 https://medium.com/@argongroup/8-things-we-learned-devcon3-day-1-858681157db1
+https://medium.com/@brandon.obrien/ethereum-devcon3-summary-day-1-1de50737d40
 
 
 Day2
@@ -358,9 +380,20 @@ https://davidburela.wordpress.com/2017/11/03/devcon-3-report-day-2-core-systems/
 https://medium.com/@grigano1/devcon3-day-2-in-review-eth-all-star-presentations-colvin-not-drinking-kool-aid-raiden-ens-d57b15e2eced
 https://www.ethnews.com/devcon3-day-2-morning-brief-a-big-day-for-wallets
 https://www.ethnews.com/devcon3-day-2-afternoon-recap
+https://medium.com/@brandon.obrien/ethereum-devcon3-summary-day-2-b45832d7d748
+
 
 Day3
 https://www.ethnews.com/devcon3-day-3-recap
+https://medium.com/@brandon.obrien/ethereum-devcon3-summary-day-3-c374c1dd9f48
+https://davidburela.wordpress.com/2017/11/04/devcon-3-report-day-3-dapp-development/
+
+
+Day4
+https://medium.com/@brandon.obrien/ethereum-devcon3-summary-day-4-a5e87829164e
+https://www.ethnews.com/devcon3-day-4-recap
+https://davidburela.wordpress.com/2017/11/06/devcon-3-report-day-4-p2p-tech/
+https://davidburela.wordpress.com/2017/11/06/devcon-3-report-day-4-p2p-tech/
 
 
 Twitter
@@ -502,6 +535,52 @@ open source
 genesis planned for early 2019
 PoA, 3.5 seconds block time, 2500 transactions/second 
 
+----------------------------------
+
+
+
+--------------
+Day 1 addendum
+--------------
+
+some of the talks which I w because of (sleeping-in after) a long office day:
+
+
+9:55 am - 10:20 am Ethereum in 25 Minutes, Version MMXVII - Vitalik Buterin
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=49m35s until 
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=1h13m55s 
+= less than 25 minutes
+
+---------------------
+
+3:30 pm - 4:00 pm Panel: Casper and Consensus - Elaine Shi & Emin Gun Sirer & Peter Czaban & Vlad Zamfir & Vitalik Buterin
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=6h24m55s
+
+---------------------
+
+4:00 pm - 4:20 pm Introducing the TrueBit Virtual Machine - Jason Teutsch
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=6h58m48s
+doge ethereum bridge, art project
+live on kovan testnet
+truebit.io - reddit medium github twitter facebook
+
+------------------------------
+
+4:40 pm - 5:00 pm ZoKrates – A Toolbox for zkSNARKs on Ethereum - Jacob Eberhardt
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=7h36m30s
+
+at the moment 1.6 million gas for 1 verification
+trusted setup phase --> breakout session Friday
+https://github.com/JacobEberhardt/ZoKrates
+Jacob (dot) Eberhardt (at) tu-berlin (dot) de
+
+------------------------------
+
+5:00 pm - 5:35 pm A modest proposal for Ethereum 2.0 - Vitalik Buterin
+(not: Designing Maximally Verifying Light Clients and Sharding)
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=7h55m35s
+https://github.com/ethereum/sharding
+
 
 
 ----------------------------------------------------------
@@ -512,6 +591,6 @@ home of this file: https://github.com/drandreaskrueger/devcon3/
 
 contributors: 
 * https://github.com/drandreaskrueger
-* [add your name here]
+* [add your repo/name here]
 
 
