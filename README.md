@@ -1,5 +1,5 @@
 
-quickstart: [devcon3notes.txt](devcon3notes.txt)  
+quickstart: [devcon3notes.txt](devcon3notes.txt)  or  [twitterphotos/](twitterphotos/)
 status: All 4 days watched.  
 
 # DevCon3 LiveStream
@@ -27,13 +27,14 @@ What a pity my body was not in Cancun, but you can be sure - my mind was. Greeti
 Good night, 
 Andreas Krueger
 
+#### News day 5: **twitter photos**
+I have downloaded ~1000 of your beautiful [twitterphotos/](twitterphotos/) - thank you so much; that way we could see a bit more of Cancun too. Love the crocodile pictures. 
 
-### TODO
+#### TODO
 * Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3  
 * Just one wish: Please do not write email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
 * making this strictly chronological  
 * perhaps invent some scheme that all this can still be parsed afterwards?  
-
 
 #### News day 4: *a few* times might be wrong now
 
@@ -46,6 +47,7 @@ Arrrghh. They seem to now have f**ked with their youtube videos, *grrr* sabotage
 I am not going to correct those times below just yet - because I don't know when they stop f**king with the videos.
 
 If you do look up the correct times, please fork this repo and send a pull request. Thanks a lot.
+
 
 
 #### sharing is caring
