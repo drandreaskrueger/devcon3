@@ -130,7 +130,7 @@ https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h11m17s
 3:30 pm - 3:55 pm Panel: USCC – The Underhanded Solidity Coding Contest
 Nick Johnson & Martin Swende & João Gabriel Carvalho & Richard Moore
 
-https://www.youtube.com/watch?v=aMs0wAFIu7I&t=2h05m55s
+(?v=aMs0wAFIu7I&t=2h05m55s now wrong, add 25 minutes) https://www.youtube.com/watch?v=aMs0wAFIu7I&t=2h30m43s
 
 tricky solidity/EVM vulnerabilities
 
