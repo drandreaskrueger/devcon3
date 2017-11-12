@@ -1,7 +1,6 @@
-version v1.1 - newer version might be at https://github.com/drandreaskrueger/devcon3/ --> /twitterphotos/  
+version v1.2 - newer version might be at https://github.com/drandreaskrueger/devcon3/ --> /twitterphotos/  
 
-quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)  
---> or [preview as mosaic](#preview)
+quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)  --> or [preview as mosaics](#preview)
 
 
 # twitter: #devcon and #devcon3 photos  
@@ -9,17 +8,18 @@ quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqU
 Steps:  
 
 1. Watched 40 hours livestream while it happened: https://github.com/drandreaskrueger/devcon3  
-2. Stupid: I was not there. I could not take my own photos. Realized: Twitter is full of photos.  
+2. Stupid: I was not there. I could not take my own photos. But realized: Twitter is full of photos.  
 3. Thought: Oh easy. But this time do not re-invent the wheel.  
 4. Asked reddit: https://www.reddit.com/r/Python/comments/7av7l8  
-5. Documented & extended & improved the existing tool, 10 commits: https://github.com/drandreaskrueger/TwitterGeoPics  
+5. Existing tool = I documented & extended & improved, 10 commits: https://github.com/drandreaskrueger/TwitterGeoPics  
 6. Pull request: https://github.com/geduldig/TwitterGeoPics/pull/3 & left more ideas there   
-7. Let it run for approx 20 minutes (devcon) and 60 minutes (devcon3) - see (*) command  
+7. Let it scrape for approx 20 minutes (#devcon) and 60 minutes (#devcon3) - see (*) command  
 8. Removed ~50 image duplicates with *XnView MP* ... Menu Tools Search similar files ... same file data.  
 9. README, compress, upload, link to it - tweet it?  
+10. How to overview? --> mosaic with "AndreaMosaic" 
 
 
-HERE is the result --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)
+HERE are 1000 photos --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)
 
 enjoy,  
 AndreasKrueger  
