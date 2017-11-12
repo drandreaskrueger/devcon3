@@ -1,6 +1,8 @@
 version v1.1 - newer version might be at https://github.com/drandreaskrueger/devcon3/ --> /twitterphotos/  
 
-quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)
+quickstart --> [DOWNLOAD ARCHIVE (117MB)](https://mega.nz/#!4vxE0bIL!T7vNY3rESqUJ8WQx1fgiZe06ontH5CCjszgpXf43pJk)  
+--> or [preview as mosaic](#preview)
+
 
 # twitter: #devcon and #devcon3 photos  
 
@@ -31,13 +33,14 @@ python -u -m TwitterGeoPics.SearchOldTweets -words '#devcon3' -stalk  \
          -oauth twitterapi-oauth.txt | tee -a photos/hashtag-devcon3_tweets.txt
 ```
 
-## Almost all photos in two pics:
+## preview
+Almost all photos in two pics:
 
 ### Unicorn  
   
-16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg) (6.6MB)   
-![Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg](Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg)  
-16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg) (6.6MB)   
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
+![Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg](Mosaic01_0856x0856_20171102-175924_cosmos.jpg)  
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
 
   
 ### Cancun  
