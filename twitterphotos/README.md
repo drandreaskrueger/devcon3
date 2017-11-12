@@ -23,7 +23,6 @@ enjoy,
 AndreasKrueger  
 
 
-
 (*) command  
 
 ```bash
@@ -31,4 +30,19 @@ python -u -m TwitterGeoPics.SearchOldTweets -words '#devcon3' -stalk  \
          -no_images_of_retweets -photo_dir ./photos/hashtag_devcon3  \
          -oauth twitterapi-oauth.txt | tee -a photos/hashtag-devcon3_tweets.txt
 ```
+
+## Almost all photos in two pics:
+
+### Unicorn  
+  
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg) (6.6MB)   
+![Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg](Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg)  
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg) (6.6MB)   
+
+  
+### Cancun  
+
+16x more pixels: [Mosaic02_4960x3314_20171030-175402_rakugo.jpg](Mosaic02_4960x3314_20171030-175402_rakugo.jpg) (7.7 MB)   
+![Mosaic02_1240x0828_20171030-175402_rakugo.jpg](Mosaic02_1240x0828_20171030-175402_rakugo.jpg)  
+16x more pixels: [Mosaic02_4960x3314_20171030-175402_rakugo.jpg](Mosaic02_4960x3314_20171030-175402_rakugo.jpg) (7.7 MB)   
 
