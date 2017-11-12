@@ -1,5 +1,5 @@
 
-quickstart: [devcon3notes.txt](devcon3notes.txt)  or  [twitterphotos/](twitterphotos/)
+quickstart: [devcon3notes.txt](https://raw.githubusercontent.com/drandreaskrueger/devcon3/master/devcon3notes.txt)  or  [twitterphotos/](twitterphotos/)
 status: All 4 days watched.  
 
 # DevCon3 LiveStream
@@ -59,7 +59,7 @@ thanks a lot for retweeting [my initial announcement](https://twitter.com/drandr
 
 # HERE are the notes:
 
-* [devcon3notes.txt](devcon3notes.txt)
+* [devcon3notes.txt](https://raw.githubusercontent.com/drandreaskrueger/devcon3/master/devcon3notes.txt)
 
 ---
 
