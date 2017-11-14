@@ -1,6 +1,5 @@
 
-quickstart: [devcon3notes.txt](https://raw.githubusercontent.com/drandreaskrueger/devcon3/master/devcon3notes.txt)  or  [twitterphotos/](twitterphotos/)
-status: All 4 days watched.  
+quickstart: [devcon3notes.md](devcon3notes.md)  or  [twitterphotos/](twitterphotos/)  status: Markdown formatted.
 
 # DevCon3 LiveStream
 
@@ -13,7 +12,8 @@ These notes contain an idiosyncratic *subset* of talks. Roughly chronological. T
 * https://ethereumfoundation.org/devcon3/agenda/
 * https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
 
-Purposes of this text document:
+Purposes of this text document: 
+
 * other people can already start watching now, even before the talks are edited and published. Thus the youtube URLs with exact HOUR:MINUTES:SECONDS links.  
 * myself I will more easily find stuff later. 
 * placeholders to perhaps insert more info about each talk  
@@ -27,30 +27,15 @@ What a pity my body was not in Cancun, but you can be sure - my mind was. Greeti
 Good night, 
 Andreas Krueger
 
+## History
+TODO
+
+#### News 10 days later: *Mosaic* and *Markdown*
 #### News day 5: **twitter photos**
-I have downloaded ~1000 of your beautiful [twitterphotos/](twitterphotos/) - thank you so much; that way we could see a bit more of Cancun too. Love the crocodile pictures. 
-
-#### TODO
-* Most urgent TODO: Markdown formatting. Not sure when/if I ever find the time. So: You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3  
-* Just one wish: Please do not write email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
-* making this strictly chronological  
-* perhaps invent some scheme that all this can still be parsed afterwards?  
-
 #### News day 4: *a few* times might be wrong now
 
-Arrrghh. They seem to now have f**ked with their youtube videos, *grrr* sabotageurs. Some time positions like &t=3h20m30s are wrong now - checked only a few: 
 
-* seems to still be correct: most of Day 2 Morning, Day 3 morning, Day 4 ?
-* Day2 afternoon: have to add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
-* Day3 afternoon:  add 17.5 minutes so &t=02h12m03s becomes https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s
-
-I am not going to correct those times below just yet - because I don't know when they stop f**king with the videos.
-
-If you do look up the correct times, please fork this repo and send a pull request. Thanks a lot.
-
-
-
-#### sharing is caring
+## sharing is caring
 thanks a lot for retweeting [my initial announcement](https://twitter.com/drandreaskruger/status/926614818886422528) to
 * [@cryptocurrency0](https://twitter.com/cryptocurrency0/status/926838062696374272) and
 * [@j32804](https://twitter.com/j32804/status/926900616592490497) and
@@ -59,7 +44,7 @@ thanks a lot for retweeting [my initial announcement](https://twitter.com/drandr
 
 # HERE are the notes:
 
-* [devcon3notes.txt](https://raw.githubusercontent.com/drandreaskrueger/devcon3/master/devcon3notes.txt)
+* [devcon3notes.md](devcon3notes.md)
 
 ---
 
