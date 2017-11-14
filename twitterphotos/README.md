@@ -38,9 +38,9 @@ Almost all photos in two pics:
 
 ### Unicorn  
   
-16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
 ![Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg](Mosaic01_0856x0856_20171102-175924_cosmos.jpg)  
-16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos Mosaic.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
+16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
 
   
 ### Cancun  
