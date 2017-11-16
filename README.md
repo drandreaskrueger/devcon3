@@ -44,6 +44,7 @@ thanks a lot for retweeting [my initial announcement](https://twitter.com/drandr
 * [@j32804](https://twitter.com/j32804/status/926900616592490497) and
 * [@rhian_is](https://twitter.com/rhian_is)
 
+and my twitterphoto mosaics wow: Devcorn [9 retweets 26 likes](https://twitter.com/drandreaskruger/status/929857990877941769), Cancun [3 retweets 4 likes](https://twitter.com/drandreaskruger/status/930350955782123521). The Devcorn will even be [put on an office wall](https://twitter.com/chjango/status/930122557595906050), hooray. Follow me, [drandreaskruger](https://twitter.com/drandreaskruger) (one letter less than here on github) if you want to.
 
 # HERE are the notes:
 

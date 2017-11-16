@@ -33,10 +33,13 @@ python -u -m TwitterGeoPics.SearchOldTweets -words '#devcon3' -stalk  \
          -oauth twitterapi-oauth.txt | tee -a photos/hashtag-devcon3_tweets.txt
 ```
 
+## retweet
+Thank you so much, wonderful people. Never before got so many retweets: devcorn [9 retweets 26 likes](https://twitter.com/drandreaskruger/status/929857990877941769), cancun [3 retweets 4 likes](https://twitter.com/drandreaskruger/status/930350955782123521). And it will even be [put on an office wall](https://twitter.com/chjango/status/930122557595906050), hooray. Follow me, [drandreaskruger](https://twitter.com/drandreaskruger) (one letter less than here on github).
+
 ## preview
 Almost all photos in two pics:
 
-### Unicorn  
+### Devcorn  
   
 16x more pixels: [Mosaic01_3425x3425_20171102-175924_cosmos.jpg](Mosaic01_3425x3425_20171102-175924_cosmos.jpg) (6.6MB)   
 ![Mosaic01_0856x0856_20171102-175924_cosmos Mosaic.jpg](Mosaic01_0856x0856_20171102-175924_cosmos.jpg)  
