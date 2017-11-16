@@ -195,7 +195,11 @@ https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=1h13m55s
 He is the Python Web3.py guy  
 Far reaching concepts for a package management system.  
 
-* was v=Yo9o5nDTAAQ&t=0h20m40s  s\*\*t, they swapped out the YT file now?   Will all hour:minutes:seconds break now?  \*grrrr\* https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s   
+https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s
+
+--------------------------------------------------
+
+* was v=Yo9o5nDTAAQ&t=0h20m40s  s\*\*t, have they swapped out the YT video file now?   Will all hour:minutes:seconds break now?  \*grrrr\* that means a lot of confusion. new beginning time: https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s   
 
 --------------------------------------------------
 
