@@ -3,16 +3,19 @@ quickstart: [devcon3notes.md](devcon3notes.md)  or  [twitterphotos/](twitterphot
 
 # DevCon3 LiveStream
 
-Notes of memorable talks. e.g. mentioned URLs and addresses &amp; start youtube positions (hours/minutes/seconds in the livestream archives) <-- this is the main usefulness.
+Notes of memorable talks.  
 
-I have watched almost ALL of the talks in the DevCon livestream (Main Hall). Yes, 35 hours of [binge-watching :-) ](https://twitter.com/j32804/status/926900616592490497) .
+e.g. mentioned URLs & addresses  
+e.g. youtube start positions (hours/minutes/seconds in the livestream archives) <-- this is the main usefulness.
 
-These notes contain an idiosyncratic *subset* of talks. Roughly chronological. There were many more. Find them yourself (and if your favorites are missing, just add'em):
+Almost ALL of the talks in the DevCon livestream (Main Hall only). Yes, 35 hours of [binge-watching :-) ](https://twitter.com/j32804/status/926900616592490497) .
+
+Beware: These notes contain only an idiosyncratic *subset* of talks. Roughly chronological. There were many more. Find them yourself (and if your favorites are missing, just add'em):
  
 * https://ethereumfoundation.org/devcon3/agenda/
 * https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
 
-Purposes of this text document: 
+Purposes of this text:
 
 * other people can already start watching now, even before the talks are edited and published. Thus the youtube URLs with exact HOUR:MINUTES:SECONDS links.  
 * myself I will more easily find stuff later. 
@@ -20,11 +23,11 @@ Purposes of this text document:
 * keeping the mentioned links somewhere. There is so much happening.  
   
 
-There might be some more info in the chat https://gitter.im/ethereum-unofficial/devcon .
+There might be some more info in the chat https://gitter.im/ethereum-unofficial/devcon (please create an official chatroom).
 
 What a pity my body was not in Cancun, but you can be sure - my mind was. Greetings from London.
 
-Good night, 
+Good night,  
 Andreas Krueger
 
 ## History

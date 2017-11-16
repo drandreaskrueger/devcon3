@@ -1,35 +1,39 @@
-[devcon3notes.md](devcon3notes.md)  status: Markdown formatted
+[devcon3](https://github.com/drandreaskrueger/devcon3)notes.md (follow link for twitterphotos)  status: Markdown formatted
 
 # DevCon3 LiveStream
 
-Notes of memorable talks. e.g. mentioned URLs and addresses &amp; start youtube positions (hours/minutes/seconds in the livestream archives) <-- this is the main usefulness.
+Notes of memorable talks.  
 
-I have watched almost ALL of the talks in the DevCon livestream (Main Hall). Yes, 35 hours of [binge-watching :-) ](https://twitter.com/j32804/status/926900616592490497) .
+e.g. mentioned URLs & addresses  
+e.g. youtube start positions (hours/minutes/seconds in the livestream archives) <-- this is the main usefulness.
 
-These notes contain an idiosyncratic *subset* of talks. Roughly chronological. There were many more. Find them yourself (and if your favorites are missing, just add'em):
+Almost ALL of the talks in the DevCon livestream (Main Hall only). Yes, 35 hours of [binge-watching :-) ](https://twitter.com/j32804/status/926900616592490497) .
+
+Beware: These notes contain only an idiosyncratic *subset* of talks. Roughly chronological. There were many more. Find them yourself (and if your favorites are missing, just add'em):
  
 * https://ethereumfoundation.org/devcon3/agenda/
 * https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
 
-Purposes of this text document:
+Purposes of this text:
+
 * other people can already start watching now, even before the talks are edited and published. Thus the youtube URLs with exact HOUR:MINUTES:SECONDS links.  
 * myself I will more easily find stuff later. 
 * placeholders to perhaps insert more info about each talk  
 * keeping the mentioned links somewhere. There is so much happening.  
   
 
-There might be some more info in the chat https://gitter.im/ethereum-unofficial/devcon .
+There might be some more info in the chat https://gitter.im/ethereum-unofficial/devcon (please create an official chatroom).
 
 What a pity my body was not in Cancun, but you can be sure - my mind was. Greetings from London.
 
-Good night, 
+Good night,  
 Andreas Krueger
 
-## History
+## Participatory
 Not sure when/if I ever find the time to further edit this. So: 
 
 * You just go ahead, and improve this if you want to; perhaps add your own notes, do a pull request, whatever. https://github.com/drandreaskrueger/devcon3  
-* Just one wish: Please do not write email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
+* Just one wish: Please do not write their email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
 
 
 #### News 10 days later: *Mosaic* and *Markdown*
@@ -195,11 +199,11 @@ https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=1h13m55s
 He is the Python Web3.py guy  
 Far reaching concepts for a package management system.  
 
-https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s
+* https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s
 
 --------------------------------------------------
 
-* was v=Yo9o5nDTAAQ&t=0h20m40s  s\*\*t, have they swapped out the YT video file now?   Will all hour:minutes:seconds break now?  \*grrrr\* that means a lot of confusion. new beginning time: https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s   
+was `?v=Yo9o5nDTAAQ&t=0h20m40s`  s\*\*t, have they swapped out the YT video file now?   Will all hour:minutes:seconds break now?  \*grrrr\* that means a lot of confusion. New beginning time: https://www.youtube.com/watch?v=Yo9o5nDTAAQ&t=4h48m42s   
 
 --------------------------------------------------
 
