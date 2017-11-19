@@ -36,6 +36,12 @@ Not sure when/if I ever find the time to further edit this. So:
 * Just one wish: Please do not write their email addresses in cleartext, to hide them from spambots (search for (at) and you'll see). Thanks. 
 
 
+#### News 2 weeks later: correct times, other people's TOCs
+About the wrong times: It must have happened, because they had initially cut off the beginning of Swarm's and Fabian's talk; and when they later re-inserted that, everything got shifted. I have now corrected the wrong times, if you still find some, please tell me. Thanks.  
+
+Moreover: There were many more than the 42 talks which I have mentioned here. [Ryan Yosua](http://www.ryanyosua.me/devcon-3-talks/) has gone through the pain of linking them all in his blog. Also, most of the yotube videos now have the beginning times as a comment.   
+
+
 #### News 10 days later: *Mosaic* and *Markdown*
 My [twitterphotos/](twitterphotos/) Mosaic got a lot of retweets, thank you very much.
 
@@ -49,15 +55,12 @@ I have downloaded ~1000 of your beautiful [twitterphotos/](twitterphotos/) - tha
 * making this strictly chronological  
 * perhaps invent some scheme that all this can still be parsed afterwards?  
 
-#### News day 4: *a few* times might be wrong now
+#### News day 4: *a few* times might be wrong now  (CORRECTED)   
 
-Arrrghh. They seem to now have f**ked with their youtube videos, *grrr* sabotageurs. Some time positions like &t=3h20m30s are wrong now - checked only a few: 
+Arrrghh. They seem to now have f**ked with their youtube videos, *grrr* sabotageurs. Some time positions like &t=3h20m30s were suddenly wrong.  
 
-* seems to still be correct: most of Day 2 Morning, Day 3 morning, Day 4 ?
-* Day2 afternoon: have to add 25 minutes, so e.g. watch?v=aMs0wAFIu7I&t=3h20m30s becomes https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h45m23s
-* Day3 afternoon:  add 17.5 minutes so &t=02h12m03s becomes https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s
-
-I am not going to correct those times below just yet - because I don't know when they stop f**king with the videos. If you do look up the correct times, please fork this repo and send a pull request. Thanks a lot.
+I have corrected them now.   
+If there are still wrong times, then please you look up the correct times, and please fork this repo and send a pull request. Thanks a lot.
 
 ----
 
@@ -119,7 +122,7 @@ Summary https://www.youtube.com/watch?v=aMs0wAFIu7I&t=01h17m10s
 
 --------------
 
-possibly have to add 23 minutes to all YT positions?
+possibly have to add 23 minutes to YT positions? (DONE)
 
 -----------------------------------------------------
 
@@ -128,7 +131,7 @@ solidity - concepts & tricks for upgradeable contracts
 wiki.aragon.one  
 aragon.chat  
 
-* begins here: https://www.youtube.com/watch?v=aMs0wAFIu7I&t=0h55m20s  
+* begins here: https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h19m00s  not ?v=aMs0wAFIu7I&t=0h55m20s  
 
 ----------------------------------
 
@@ -137,7 +140,7 @@ aragon.chat
 
 *This talk is about my experience building and using a block explorer for the Ethereum blockchain, which will provide a statistics highlight of the Ethereum blockchain and demographics of the Ethereum user base. The demographics portion will based on analytical data generated over the past years from Etherscan.io, which will assist new/existing developers on building a better user experience by first understanding who their potential target audiences are.*
 
-* https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h11m17s
+* https://www.youtube.com/watch?v=aMs0wAFIu7I&t=1h35m15s
 
 1st part: interesting numbers  
 2nd part: geth vs parity  
@@ -157,7 +160,7 @@ all 4 could be hired for smart contract code audits ?
 
 #### 4:40 pm - 5:00 pm The Raiden Network - Augusto Hack & Jannik Luhn & Loredana Cirstea
 
-* https://www.youtube.com/watch?v=aMs0wAFIu7I&t=3h20m30s
+* https://www.youtube.com/watch?v=aMs0wAFIu7I&t=13523s (not ?v=aMs0wAFIu7I&t=3h20m30s)
 
 how to build applications on top  
 API calls, WebUI; Ropsten  
@@ -244,7 +247,7 @@ Mist Browser!
 * https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h36m17s   
 
 
-#### ??:?? - ??:?? Where is the decentralized Web  
+#### Where is the decentralized Web - Moon project - Victor Maia  
 http://moon-browser.org/  !!!  IPSF !   
 
 * https://www.youtube.com/watch?v=k42YNyvG8CU&t=00h56m42s
@@ -301,7 +304,7 @@ web3.utils
 web3.utils.soliditySha3  
 ...  
 
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h00m00s stupidly cut off by youtube
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h00m00s (now NOT stupidly cut off by youtube anymore ;-) )
 
 -----------------------------------------------
 
@@ -310,7 +313,7 @@ Augur
 bounties for tools wishlist https://augur.net/bounties/  
 e.g. 2000 REP for portable debugger  
 
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h03m07s
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h18m44s (not ?v=FPHXbJPVVaA&t=00h03m07s)
 
 --------------------------------------
 
@@ -320,7 +323,7 @@ complete Ethereum RPC specification as a JSON object !! inputs, outputs ...
 Why EthJS?  
 frustration about / criticism of web3.js  
 
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h26m15s
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h42m02s (not ?v=FPHXbJPVVaA&t=00h26m15s)
 
 -------------------------------------------------------
 
@@ -335,7 +338,7 @@ Jack Peterson
 Piper Merriam  
 who else?  
 
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=00h45m27s
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=01h1m32s (not ?v=FPHXbJPVVaA&t=00h45m27s)
 
 ---------------------------------
 
@@ -343,7 +346,7 @@ who else?
 onboarding, userfriendly  
 identity management ACROSS chains  
 
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=01h21m27s
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=01h37m39s (not ?v=FPHXbJPVVaA&t=01h21m27s)
 
 ---------------------------------
 
@@ -364,16 +367,14 @@ permID.org identifiers for entities e.g. industry symbols that get recycled
 data coverage, e.g. electricity & gas prices  
 if we need other data sets, we can ask then they'll provide  
 
-https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h12m03s 
+not ?v=FPHXbJPVVaA&t=02h12m03s arrgghh this YT channel F**KED UP their videos!!!  &t=02h12m03s becomes now:  
 
-* arrgghh this YT channel F**KED UP their videos!!! 
-&t=02h12m03s becomes now:  
-https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s == add 17.5 minutes
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h29m40s == add 17.5 minutes
 
 -----------------------------------------------------------
 
 #### 2 talks oracle <-> trusted hardware: TownCrier, Oraclize
-* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h31m28s  
+* https://www.youtube.com/watch?v=FPHXbJPVVaA&t=02h48m54s (not ?v=FPHXbJPVVaA&t=02h31m28s)
 
 ##### 3:50 pm - 4:10 pm Secure Decentralized Oracles: Applying Intel SGX and TownCrier to external data, payments and off-chain computation - Sergey Nazarov
 https://link.smartcontract.com/whitepaper  

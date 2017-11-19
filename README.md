@@ -27,12 +27,13 @@ There might be some more info in the chat https://gitter.im/ethereum-unofficial/
 
 What a pity my body was not in Cancun, but you can be sure - my mind was. Greetings from London.
 
-Good night,  
+Good night,  	
 Andreas Krueger
 
 ## History
 TODO
 
+#### News 2 weeks later: corrected times, other people's TOCs
 #### News 10 days later: *Mosaic* and *Markdown*
 #### News day 5: **twitter photos**
 #### News day 4: *a few* times might be wrong now
